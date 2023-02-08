@@ -19,6 +19,7 @@
 body {
     background-color: var(--main-color);
     font-family:  'Public Sans';
+    overflow: hidden;
 }
 nav {
     padding: 15px 0;
