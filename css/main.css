@@ -341,7 +341,7 @@ nav {
     }
     .menu__btn {
         position: absolute;
-        top: 60%;
+        top: 66%;
         left: 28%;
         z-index: 3;
         display: none;
